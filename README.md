@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kayla
-- 👀 I’m interested in CSS, UI, UX
-- 🌱 I’m currently learning Ruby, JavaScript, React, & Rails
+- 👀 I’m interested in UI, UX
+- 🌱 I’m currently learning Ruby, JavaScript, React, Rails, & CSS
 - 💞️ I’m looking to collaborate on web development and user experience
 - 📫 How to reach me ~ 
    - <a href="https://www.linkedin.com/in/kaylainboston/">LinkedIn</a><br>
